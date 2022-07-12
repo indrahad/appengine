@@ -5,7 +5,7 @@ const path = require('path');
 
 
 const PORT = 8000
-const HOST = 'localhost'
+const HOST = '0.0.0.0'
 
 const app = express()
 // default URL for website
